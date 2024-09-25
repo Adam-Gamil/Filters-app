@@ -1,37 +1,3 @@
-/*
-
-Description: the filter program first shows the user the menu and let the user choose the filter he wants then
-after the user choose the filter the main menu will appear again
-and show the user the option if he wants to save the image with the old name or with a new name or to load a new image
-or to exit the application
-
-1st Author: Adam Mohamed Gamil Abdel Latif
-1st ID: 20230041
-Section: S20
-Parts done: Main Menu and grey filter, bright dark filter, merge filter, detect image edges filter and
-sunlight filter
-
-2nd Author: Mohamed Magdy Youness
-2nd ID: 20230352
-Section: S19
-Parts done: black and white filter, flip image vertically and horizontal filter, resize filter, crop filter, infrared filter
-
-3rd Author: Bassam Wagdi Ali
-3rd ID: 20230747
-Section: S20
-Parts done: invert image filter, blur filter, frame filter, rotate filter, night purple filter
-Note: filter blur is the only filter that the image must be saved in the same function after the filter is applied
-and can not be saved like other filters by choosing the save option in the main menu
-
-
-Diagram link: https://drive.google.com/file/d/15CqWodcz5E9GIbonbv_q2NNrVWlLa3QW/view?usp=drive_link
-
-Section TA: Youmna Ismail Fathy (same TA for the three of us)
-
-Date: 4/14/2024
-Version: 1.5
-
-*/
 
 #include<bits/stdc++.h>
 #include "Image_Class.h"
