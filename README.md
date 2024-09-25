@@ -1,2 +1,2 @@
-# Assignment-3
+# Filters app
 Assignment 3 filters project
