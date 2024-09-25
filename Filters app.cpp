@@ -1,4 +1,3 @@
-
 #include<bits/stdc++.h>
 #include "Image_Class.h"
 #include <fstream>
