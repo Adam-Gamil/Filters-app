@@ -32,10 +32,3 @@ Welcome to the Image Filter Program! This program allows users to apply various 
 - A C++ compiler (e.g., g++, clang)
 - Image library support (image_Class.h, stb_image.h, stb_image_write.h are the one you must include and you will find it in the repositry)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Adam-Gamil/image-filter-program.git
-
