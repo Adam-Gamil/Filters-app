@@ -30,7 +30,7 @@ Welcome to the Image Filter Program! This program allows users to apply various 
 ### Prerequisites
 
 - A C++ compiler (e.g., g++, clang)
-- Image library support (ensure you have an appropriate library for loading and manipulating images)
+- Image library support (image_Class.h, stb_image.h, stb_image_write.h are the one you must include and you will find it in the repositry)
 
 ### Installation
 
