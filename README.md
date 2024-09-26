@@ -37,5 +37,5 @@ Welcome to the Image Filter Program! This program allows users to apply various 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/image-filter-program.git
+   git clone https://github.com/Adam-Gamil/image-filter-program.git
 
