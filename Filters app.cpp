@@ -7,7 +7,7 @@ using namespace std;
 bool hasImageExtension(string &file_name) { // this function check that at the end of the string the user have added any type of image extensions
     size_t pos = file_name.find_last_of(".");
     if (pos == string::npos) {
-        return false; // No period found in the string
+        return false; // no period found in the string
     }
     string extension = file_name.substr(pos);
     return extension == ".jpg" || extension == ".jpeg" || extension == ".png" || extension == ".bmp";
